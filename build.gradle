@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'com.ulger.usermanager'
+version '1.0'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+}
