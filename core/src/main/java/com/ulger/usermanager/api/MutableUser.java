@@ -2,13 +2,13 @@ package com.ulger.usermanager.api;
 
 public class MutableUser implements User {
 
-    private String id;
+    private Long id;
     private String email;
     private String displayName;
     private String credential;
 
     @Override
-    public String getId() {
+    public Long getId() {
         return id;
     }
 

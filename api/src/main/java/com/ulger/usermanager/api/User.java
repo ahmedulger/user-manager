@@ -6,7 +6,7 @@ public interface User {
      * Represents unique identifier of customer
      * @return id
      */
-    String getId();
+    Long getId();
 
     /**
      * Represent email of user
