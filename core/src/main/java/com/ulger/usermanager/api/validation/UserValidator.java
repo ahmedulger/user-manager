@@ -9,7 +9,7 @@ import com.ulger.validation.ValidationResult;
 public interface UserValidator {
 
     /**
-     * Do validates customer input for creation and returns detail
+     * Do validate customer input for creation and returns detail
      * information of validation result
      *
      * @param userModificationData
